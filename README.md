@@ -12,3 +12,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Avid rock climber and soundsystem enthusiast
 
+---
+
+[![Rozakiin's github stats](https://github-readme-stats.vercel.app/api?username=rozakiin)](https://github.com/anuraghazra/github-readme-stats)
