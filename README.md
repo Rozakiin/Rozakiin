@@ -13,8 +13,8 @@
 - ⚡ Fun fact: Avid rock climber and soundsystem enthusiast
 
 ---
-
 ### Programming Languages
+
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -25,11 +25,12 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
+### Github Stats
 
 [![Rozakiin's github stats](https://github-readme-stats.vercel.app/api?username=rozakiin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#9451](https://github.com//qmk/qmk_firmware/pull/9451) in [qmk/qmk_firmware](https://github.com//qmk/qmk_firmware)
 2. 💪 Opened PR [#9450](https://github.com//qmk/qmk_firmware/pull/9450) in [qmk/qmk_firmware](https://github.com//qmk/qmk_firmware)
